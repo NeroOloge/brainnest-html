@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  background-color: gray;
+}
+
+a {
+  color: blue;
+}
+
+img {
+  border-radius: 50%;
+}
